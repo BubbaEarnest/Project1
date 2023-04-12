@@ -12,6 +12,9 @@ Overview of the assignment.
 - pathlib
 - matplotlib
 - alpacha api
+- yfinance
+- mcforcasttools
+- hvplot
 - 
 ## Installation Guide
 To install a module, run the following code:
